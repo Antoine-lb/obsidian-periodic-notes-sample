@@ -11,6 +11,14 @@
             "id": "125f695770d54be4",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "1d9e6413bb9a47f9",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "README.md",
@@ -18,8 +26,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "4a2c3e4b0c6d2c43",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Periodic/Monthly/2022-01.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -155,17 +176,16 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "125f695770d54be4",
+  "active": "1d9e6413bb9a47f9",
   "lastOpenFiles": [
-    "screenshots/full-calendar.jpg",
-    "README.md",
     "Periodic/Yearly/2022.md",
-    "Periodic/Weekly/2022-W52.md",
     "Periodic/Monthly/2022-01.md",
-    "Periodic/Daily/2022-12-26.md",
-    "docs.md",
-    "Templates/Monthly.md",
+    "Periodic/Weekly/2022-W01.md",
+    "Periodic/Daily/2022-01-03.md",
+    "Templates/Daily.md",
     "Periodic/Monthly/2022-12.md",
-    "Templates/Weekly.md"
+    "Templates/Weekly.md",
+    "Templates/Monthly.md",
+    "README.md"
   ]
 }

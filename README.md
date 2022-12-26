@@ -1,5 +1,16 @@
 
+# Obsidian Periodic Notes Sample
 This volt has a basic skeleton for Daily, Weekly, Monthly and Yearly periodict notes with goals and conclusions that are shared between the files.
+
+
+
+![daily-example](https://github.com/Antoine-lb/obsidian-periodic-notes-sample/blob/master/screenshots/daily-example.jpg?raw=true)
+
+![weekly-example](https://github.com/Antoine-lb/obsidian-periodic-notes-sample/blob/master/screenshots/weekly-example.jpg?raw=true)
+
+![monthly-example](https://github.com/Antoine-lb/obsidian-periodic-notes-sample/blob/master/screenshots/monthly-example.jpg?raw=true)
+
+![yearly-example](https://github.com/Antoine-lb/obsidian-periodic-notes-sample/blob/master/screenshots/yearly-example.jpg?raw=true)
 
 
 
@@ -12,12 +23,6 @@ Plugins:
 2. (Optional but recomended) Natural Language Dates *by Argentina Ortega Sainz*
 3. (Optional but recomended) Calendar *by Liam Cain*
 
-
-
-
-```
-<% moment(tp.file.title, 'YYYY-MM-DD').format("YYYY-MM-DD")%>#<% moment(tp.file.title, 'YYYY-MM-DD').format("dddd DD/MM/YY") %>
-```
 
 ## How does it work
 This template uses 3 concepts to work:
@@ -32,6 +37,11 @@ This template uses 3 concepts to work:
 - Templater's ability to read the document title and integration with MomentJS
 
 ## Templater and MomentJS
+
+```
+<% moment(tp.file.title, 'YYYY-MM-DD').format("YYYY-MM-DD")%>#<% moment(tp.file.title, 'YYYY-MM-DD').format("dddd DD/MM/YY") %>
+```
+
 
 ## Use the calendar to move accross daily notes
 Once the plugin is installed, the calendar tab is hidden in the right pannel:
@@ -48,7 +58,4 @@ Because not all months start on monday and end in sunday.
 
 
 ![5-weeks-months](https://github.com/Antoine-lb/obsidian-periodic-notes-sample/blob/master/screenshots/5-week-months.jpg?raw=true)
-
-
-![[https://github.com/Antoine-lb/obsidian-periodic-notes-sample/blob/master/screenshots/5-week-months.jpg]]
 
