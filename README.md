@@ -36,12 +36,6 @@ This template uses 3 concepts to work:
 		- `![[2022-09#goal]]` prints only the september goal
 - Templater's ability to read the document title and integration with MomentJS
 
-## Templater and MomentJS
-
-```
-<% moment(tp.file.title, 'YYYY-MM-DD').format("YYYY-MM-DD")%>#<% moment(tp.file.title, 'YYYY-MM-DD').format("dddd DD/MM/YY") %>
-```
-
 
 ## Use the calendar to move accross daily notes
 Once the plugin is installed, the calendar tab is hidden in the right pannel:
