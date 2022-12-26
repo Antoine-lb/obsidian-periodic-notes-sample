@@ -35,8 +35,10 @@ This template uses 3 concepts to work:
 
 ## Use the calendar to move accross daily notes
 Once the plugin is installed, the calendar tab is hidden in the right pannel:
-![[reveal-calendar.jpg]]
-![[full-calendar.jpg]]
+
+![5-weeks-months](https://github.com/Antoine-lb/obsidian-periodic-notes-sample/blob/master/screenshots/reveal-calendar.jpg?raw=true)
+
+![5-weeks-months](https://github.com/Antoine-lb/obsidian-periodic-notes-sample/blob/master/screenshots/full-calendar.jpg?raw=true)
 
 Read more about it here: https://github.com/liamcain/obsidian-calendar-plugin
 
@@ -44,4 +46,9 @@ Read more about it here: https://github.com/liamcain/obsidian-calendar-plugin
 ## Why 5 weeks per month?
 Because not all months start on monday and end in sunday.
 
-![[5-week-months.jpg]]
+
+![5-weeks-months](https://github.com/Antoine-lb/obsidian-periodic-notes-sample/blob/master/screenshots/5-week-months.jpg?raw=true)
+
+
+![[https://github.com/Antoine-lb/obsidian-periodic-notes-sample/blob/master/screenshots/5-week-months.jpg]]
+
